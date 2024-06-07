@@ -30,20 +30,3 @@ Our platform is a web application designed to provide accessible solutions to st
 
 
 
-# User Stories
-
-1. As a user, I want to be able to log into the "StudentHub" app with my unique user ID and password, so that I can access my personal data and features. 
-
-2. As a student, I want a landing page with clear menus so that I can easily navigate to different functions within the 'StudentHub' app 
-
-3. As a student, I want to create and organize tasks and assignments so that I can efficiently manage my academic workload.
-
-4. As a user, I want to manage my expenses and set budgets so that I can effectively handle my finances during my studies.
-
-5. As a student, I want to connect with peers, participate in clubs, and foster social connections so that I can enrich my university experience.
-
-6. As a student, I want access to resources, mentorship, and support services so that I can overcome challenges and reach my academic and personal objectives.
-
-
-
-
